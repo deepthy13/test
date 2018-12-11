@@ -1,6 +1,5 @@
 new file update
-<<<<<<< HEAD
+
 added line from local
-=======
+
 edit in remote
->>>>>>> 96c0e70d09697b25a69edfe0ac373b3079022ad0
